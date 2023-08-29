@@ -1,7 +1,5 @@
 # React Task Management with Priority Lists
 
-This is a simple task management app built using React that allows you to manage your tasks based on three levels of priority: High, Medium, and Low. You can create, edit, delete tasks, and also move them between different priority lists.
-
 ## Features
 
 - **Task Creation:** Add tasks to the respective priority lists.
